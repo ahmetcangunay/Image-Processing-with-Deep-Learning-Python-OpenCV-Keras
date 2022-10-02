@@ -2,12 +2,11 @@
 Computer Vision in Python with Artificial Intelligence and Deep Learning Techniques: Real-Time Object Recognition - Classification - Tracking
 
 
+# ***Image Processing Course Content with Deep Learning***
 
-**Image Processing Course Content with Deep Learning**
+- ## ***Python Reminder*** 🐍
 
-- ## ***Python Reminder***
-
-  - Spyder Introduction
+  - Spyder Introduction 🕷️
 
    - Variables
 
@@ -19,7 +18,7 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - Deque
 
-   - Dictionary
+   - Dictionary 📕
 
    - If - Else
 
@@ -29,11 +28,11 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - Yield
 
-   - Numpy Library
+   - Numpy Library 🔢
 
-   - Pandas Library
+   - Pandas Library 🐼
 
-   - Matplotlib Library
+   - Matplotlib Library 📊
 
    - OS Library
    
@@ -41,11 +40,11 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - Introduction to Image Processing with OpenCV
 
-   - Image Import
+   - Image Import 🖼️
 
-   - Video Import
+   - Video Import 📼
 
-   - Camera Opening and Video Recording
+   - Camera Opening and Video Recording 📹
 
    - Resize and Crop
 
@@ -65,7 +64,7 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - Gradients
 
-   - Histogram 
+   - Histogram 📊
 
 - ## ***Object Detection with OpenCV***
 
@@ -85,13 +84,13 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - Basin Algorithm
 
-   - Facial Recognition Project
+   - Facial Recognition Project 🧑
 
-   - Cat Face Recognition Project
+   - Cat Face Recognition Project 😺
 
    - Object Detection with Special Similar Features
 
-   - Pedestrian Detection
+   - Pedestrian Detection 🚶🚶‍♀️
    
 - ## ***Object Tracking with OpenCV***
 
@@ -109,7 +108,7 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - What are Convolutional Neural Networks?
 
-   - Trex Project
+   - T-rex Project 🦖
 
    - Real Time Digit Classification Project
    
@@ -117,7 +116,7 @@ Computer Vision in Python with Artificial Intelligence and Deep Learning Techniq
 
    - Object Detection with Convolutional Neural Networks Introduction
 
-   - Pyramid Representation
+   - Pyramid Representation 𓂀🔺🛕🐫
 
    - Floating Window
 
